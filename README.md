@@ -21,5 +21,5 @@ Features contributing to high customer attrition rate are as follows:
 - IsActiveMember: Indication of customers having an active transaction with their bank account.
 - Estimated Salary - The estimated salary of a customer.
 
-##Analysis
+## Analysis
 The best predictive model acquired comprised of features like Geography, Gender, Age, Tenure, IsActiveMember and Age*IsActiveMember giving us an accuracy of 84% whether the customer would leave or stay at the bank.
